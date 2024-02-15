@@ -32,8 +32,3 @@ buttons.forEach((button) => {
         calculate(event.target.dataset.value);
     });
 });
-
-{/* <button class="operator" data-value="SQR">X <sup>2</sup></button>
-<button class="operator" data-value="CUBE">X <sup>3</sup></button>
-<button class="operator" data-value="ROOT">√ </button>
-<button class="operator" data-value="NEG">+/-</button> */}
